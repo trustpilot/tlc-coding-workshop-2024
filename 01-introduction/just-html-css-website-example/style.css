@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Helvetica", sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #535355;
+}
+
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+img {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h1,
+h2,
+strong {
+    color: #333;
+}
+
+a {
+    color: #10728de7;
+}
+
+.main-page-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
