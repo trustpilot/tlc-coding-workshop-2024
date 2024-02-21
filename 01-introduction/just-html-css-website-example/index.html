@@ -4,55 +4,99 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Test Page</title>
+    <title>Introduction to Web Pages</title>
     <!-- This is where the CSS gets linked -->
-    <link href="style.css" rel="stylesheet" /> 
+    <link href="style.css" rel="stylesheet" />
+    <link rel="icon" href="favicon.ico">
 </head>
 
 <body>
-    <h1>Hello!</h1>
+    <h1>Hello! ☺️</h1> <!-- We can insert emojis into the HTML (Cmd+Ctrl+Space for emoji selection on MacOS) -->
     <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-        a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
-        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
-        Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+        This is a simple website, put together using just HTML and CSS. It's surprising how much you can do with just
+        these two technologies!
+        </br>
     </p>
-    <!-- Sample text from https://www.lipsum.com/ -->
+    <ol>
+        <!-- Links to the other sections in the page -->
+        <li><a href="#html-section">How does HTML work?</a></li>
+        <li><a href="#css-section">How does CSS work?</a></li>
+        <li><a href="#links-section">Links to Helpful Resources</a></li>
+    </ol>
+
+    <h2 id="html-section">How does HTML work? 🤔</h2>
+    <p>
+        An HTML (Hypertext Markup Language) document outlines the <strong>structure</strong> of a web page using
+        <strong>tags</strong>.
+    </p>
+    <p>
+        Tags in an HTML document tell the
+        browser how to display our text, images, and links. For example, there are several different tags that represent
+        text headings, similar to the different headings you might use in a Word document. They are called
+        <code>h1</code>, <code>h2</code>, <code>h3</code>, <code>h4</code>, etc.
+        There is also a tag for paragraph text, like the text you are reading right now. This tag is simply called
+        <code>p</code>.
+    </p>
+    <p>
+        Tag syntax helps the browser to
+        understand what structure you'd like the webpage to have - where headings start and end, and where paragraphs
+        begin and finish. Like this:
+    <pre><code>&lt;h1&gt; Example Heading &lt;/h1&gt;</br>&lt;p&gt; This is an example of paragraph text &lt;/p&gt;</code></pre>
+    </p>
+    <p>
+        You can see that the starting tag looks like <code>&lt;p&gt;</code> whereas the closing tag looks like
+        <code>&lt;/p&gt;</code>. The <code>/</code> represents the closing tag.
+    </p>
+    <p>
+        To add images, we use the <code>&lt;img&gt;</code> tag. Unlike paragraphs and headings, we can close within
+        the same tag for images. For example, the code for the image below is:
+    </p>
+
+    <pre><code>&lt;img class=&quot;main-page-image&quot; src=&quot;https://picsum.photos/id/16/2000/1000&quot; alt=&quot;My test image&quot;/&gt;</code></pre>
 
     <img class="main-page-image" src="https://picsum.photos/id/16/2000/1000" alt="My test image" />
     <!-- Sample image from https://picsum.photos/ -->
 
-    <h2>What next?</h2>
-
-    <p>In this section we'll cover:</p>
-
-    <ul>
-        <li>Lorem ipsum dolor sit amet</li>
-        <li>Consectetur adipiscing elit</li>
-        <li>Maecenas euismod dui arcu</li>
-    </ul>
+    </br>
 
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod dui arcu, non dapibus velit convallis
-        vitae. Nunc eu iaculis justo. In sollicitudin quis est sit amet fringilla. Phasellus volutpat gravida leo.
-        Integer imperdiet suscipit iaculis. Praesent at ante ut neque tincidunt interdum. In sollicitudin venenatis ex,
-        at consequat urna laoreet at. Donec placerat eros vitae tellus iaculis lacinia. Quisque elementum est at auctor
-        pharetra.
+        This highlights the slight differences in syntax between tags. It's okay if you don't remember these off the top
+        of your head. Even developers with a lot of experience find themselves Googling things about HTML tags.
     </p>
     <p>
-        Donec ornare vitae ipsum sed varius. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim
-        ipsum ut fermentum aliquam. Nullam id vestibulum tortor. Nulla vulputate tortor eu velit pellentesque bibendum.
-        Sed ut urna sem. Curabitur varius justo non posuere placerat. Fusce aliquam ex vitae euismod dictum. Phasellus a
-        justo lacinia, lobortis ante sit amet, efficitur orci. Curabitur tempor facilisis lectus, sit amet commodo
-        ligula sollicitudin id. Integer a lectus ac diam auctor rutrum at condimentum eros. Sed vel convallis turpis.
-        Fusce nisl quam, varius lobortis nunc sit amet, facilisis mattis ex. Nulla ac pretium velit, et interdum quam.
-        Cras tortor libero, rhoncus a rutrum a, tincidunt vel dui.
+        Using just HTML alone, you can create a readable webpage. However, CSS can help us
+        add <strong>styling</strong>. This can further enhance readability and generally make the page look a lot
+        more appealing!
+    </p>
+    <p>To learn more about HTML, have a look at Mozilla Developer Docs
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">here</a>.
     </p>
 
-    <h2>Links</h2>
+    <h2 id="css-section">How does CSS work? 🤔</h2>
 
+    <p>
+        CSS (Cascading Style Sheets) allows us to describe <strong>how</strong> we want our page to look using
+        <strong>rulesets</strong>.
+    </p>
+    <p>
+        Rulesets, often referred to as just rules, allow us to describe what we want specific elements of our HTML
+        document to look like. They look like this:
+    </p>
+    <pre><code>p { colour: red };</code></pre>
+    <p>
+        In this example, we are saying we want all paragraphs to have red text. <code>p</code> is the CSS 'selector' and
+        maps
+        directly to our HTML tag, <code>color</code> is the property we are defining, <code>red</code> is value we want
+        to assign the property.
+    </p>
+    <p>
+        To learn more about CSS, have a look at Mozilla Developer Docs
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">here</a>.
+    </p>
+
+    <h2 id="links-section">Links to Helpful Resources 🔗</h2>
+    <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Docs</a>
+    </br>
     <a href="https://jgthms.com/web-design-in-4-minutes/#primary-color">Web Design in 4 Minutes - Page</a>
     </br>
     <a href="https://github.com/jgthms/web-design-in-4-minutes">Web Design in 4 Minutes - Repository</a>
