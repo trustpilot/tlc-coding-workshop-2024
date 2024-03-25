@@ -1,5 +1,5 @@
 # Simple Website Example
 
-This folder contains code for a very simple webpage, using HTML, CSS and JavaScript.
+This folder contains code for two simple websites. One uses just HTML and CSS, the other uses basic JavaScript as well as HTML and CSS.
 
-I've added test images using a site called Lorem Picsum https://picsum.photos/ 
+Test images were added using a site called Lorem Picsum https://picsum.photos/.
