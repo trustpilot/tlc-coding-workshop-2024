@@ -1,0 +1,90 @@
+[
+  {
+    "id": "everything_everywhere_all_at_once",
+    "type": "film",
+    "name": "Everything Everywhere All At Once",
+    "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "imdbLink": "https://www.imdb.com/title/tt6710474",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "the_whale",
+    "type": "film",
+    "name": "The Whale",
+    "description": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+    "imdbLink": "https://www.imdb.com/title/tt13833688",
+    "imdbScore": 7.7
+  },
+  {
+    "id": "the_elephants_whisperers",
+    "type": "film",
+    "name": "The Elephants Whisperers",
+    "description": "Bomman and Bellie, a couple in South India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other that tests the barrier between the human and the animal world.",
+    "imdbLink": "https://www.imdb.com/title/tt23628262/",
+    "imdbScore": 7.5
+  },
+  {
+    "id": "all_quiet_on_the_western_front",
+    "type": "film",
+    "name": "All Quiet on the Western Front",
+    "description": "A young German soldier's terrifying experiences and distress on the western front during World War I.",
+    "imdbLink": "https://www.imdb.com/title/tt1016150/",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "black_panther_wakanda_forever",
+    "type": "film",
+    "name": "Black Panther: Wakanda Forever",
+    "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+    "imdbLink": "https://www.imdb.com/title/tt9114286/",
+    "imdbScore": 6.7
+  },
+  {
+    "id": "guillermo_del_toro_pinocchio",
+    "type": "film",
+    "name": "Guillermo del Toro’s Pinocchio",
+    "description": "Animated film about a father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
+    "imdbLink": "https://www.imdb.com/title/tt1488589",
+    "imdbScore": 7.6
+  },
+  {
+    "id": "navalny",
+    "type": "film",
+    "name": "Navalny",
+    "description": "Follows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery he makes shocking discoveries about the attempt on his life and decides to return home.",
+    "imdbLink": "https://www.imdb.com/title/tt17041964",
+    "imdbScore": 7.7
+  },
+  {
+    "id": "the_boy_the_mole_the_fox_and_the_horse",
+    "type": "film",
+    "name": "The Boy, The Mole, The Fox and The Horse",
+    "description": "Follows a boy, a mole, a fox and a horse, as they create an unexpected friendship and travel together in the boy's search for home.",
+    "imdbLink": "https://www.imdb.com/title/tt22667880/",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "top_gun_maverick",
+    "type": "film",
+    "name": "Top Gun: Maverick",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+    "imdbLink": "https://www.imdb.com/title/tt1745960/",
+    "imdbScore": 8.2
+  },
+  {
+    "id": "avatar_the_way_of_water",
+    "type": "film",
+    "name": "Avatar: The Way of Water",
+    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "imdbLink": "https://www.imdb.com/title/tt1630029",
+    "imdbScore": 7.6
+  },
+  {
+    "id": "rrr",
+    "type": "film",
+    "name": "RRR",
+    "description": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+    "imdbLink": "https://www.imdb.com/title/tt8178634/",
+    "imdbScore": 7.8
+  }
+]
