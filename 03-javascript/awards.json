@@ -1,0 +1,200 @@
+{
+  "best_picture": {
+    "id": "best_picture",
+    "description": "The Academy Award for Best Picture is one of the Academy Awards (also known as Oscars) presented annually by the Academy of Motion Picture Arts and Sciences since the awards debuted in 1929. This award goes to the producers of the film and is the only category in which every member of the Academy is eligible to submit a nomination and vote on the final ballot. The Best Picture category is traditionally the final award of the night and is widely considered as the most prestigious honor of the ceremony.",
+    "title": "Best Picture",
+    "winner": {
+      "name": "Everything Everywhere All at Once",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_director": {
+    "id": "best_director",
+    "description": "The Academy Award for Best Director (officially known as the Academy Award of Merit for Directing) is given in honor of a film director who has exhibited outstanding directing while working in the film industry.",
+    "title": "Best Director",
+    "winner": {
+      "name": "Daniel Kwan and Daniel Scheinert",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_actor": {
+    "id": "best_actor",
+    "description": "The Academy Award for Best Actor has been awarded since the 1st Academy Awards to an actor who has delivered an outstanding performance in a leading role in a film released that year. The award is traditionally presented by the previous year's Best Actress winner.",
+    "title": "Best Actor",
+    "winner": {
+      "name": "Brendan Fraser",
+      "filmId": "the_whale"
+    }
+  },
+  "best_actress": {
+    "id": "best_actress",
+    "description": "The Academy Award for Best Actress has been awarded since the 1st Academy Awards to an actress who has delivered an outstanding performance in a leading role in a film released that year. The award is traditionally presented by the previous year's Best Actor winner.",
+    "title": "Best Actress",
+    "winner": {
+      "name": "Michelle Yeoh",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_supporting_actor": {
+    "id": "best_supporting_actor",
+    "description": "The Academy Award for Best Supporting Actor has been awarded since the 9th Academy Awards to an actor who has delivered an outstanding performance in a supporting role in a film released that year. The award is traditionally presented by the previous year's Best Supporting Actress winner. In lieu of the traditional Oscar statuette, supporting acting recipients were given plaques up until the 16th Academy Awards, when statuettes were awarded to each category instead.",
+    "title": "Best Supporting Actor",
+    "winner": {
+      "name": "Ke Huy Quan",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_supporting_actress": {
+    "id": "best_supporting_actress",
+    "description": "The Academy Award for Best Supporting Actress has been awarded since the 9th Academy Awards to an actress who has delivered an outstanding performance in a supporting role in a film released that year. The award is traditionally presented by the previous year's Best Supporting Actor winner. In lieu of the traditional Oscar statuette, supporting acting recipients were given plaques up until the 16th Academy Awards, when statuettes were awarded to each category instead.",
+    "title": "Best Supporting Actress",
+    "winner": {
+      "name": "Jamie Lee Curtis",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_writing_original_screenplay": {
+    "id": "best_writing_original_screenplay",
+    "description": "The Academy Award for Best Original Screenplay is for the best screenplay not based upon previously published material. It was created in 1940 as a separate writing award from the Academy Award for Best Story. Beginning with the Oscars for 1957, the two categories were combined to honor only the screenplay.",
+    "title": "Best Writing (Original Screenplay)",
+    "winner": {
+      "name": "Daniel Kwan and Daniel Scheinert",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_writing_adapted_screenplay": {
+    "id": "best_writing_adapted_screenplay",
+    "description": "The Academy Award for Best Adapted Screenplay is for the best screenplay adapted from previously established material. The most frequently adapted media are novels, but other adapted narrative formats include stage plays, musicals, short stories, TV series, and even other films and film characters. All sequels are also considered adaptations by this standard (based on the story and characters set forth in the original film).",
+    "title": "Best Writing (Adapted Screenplay)",
+    "winner": {
+      "name": "Eric Roth",
+      "filmId": "all_quiet_on_the_western_front"
+    }
+  },
+  "best_animated_feature_film": {
+    "id": "best_animated_feature_film",
+    "description": "The Academy Award for Best Animated Feature is given each year for the best animated film. An animated feature is defined by the academy as a film with a running time of more than 40 minutes in which characters' performances are created using a frame-by-frame technique, a significant number of the major characters are animated, and animation figures in no less than 75 percent of the running time. The Academy Award for Best Animated Feature was first awarded in 2002 for films released in 2001.",
+    "title": "Best Animated Feature Film",
+    "winner": {
+      "name": "Guillermo del Toro’s Pinocchio",
+      "filmId": "guillermo_del_toro_pinocchio"
+    }
+  },
+  "best_international_feature_film": {
+    "id": "best_international_feature_film",
+    "description": "The Academy Award for Best International Feature Film (known as Best Foreign Language Film prior to 2020) is one of the Academy Awards handed out annually by the U.S.-based Academy of Motion Picture Arts and Sciences. It is given to a feature-length motion picture produced outside the United States with a predominantly non-English dialogue track.",
+    "title": "Best International Feature Film",
+    "winner": {
+      "name": "All Quiet on the Western Front (Germany)",
+      "filmId": "all_quiet_on_the_western_front"
+    }
+  },
+  "best_documentary_feature": {
+    "id": "best_documentary_feature",
+    "description": "The Academy Award for Best Documentary Feature Film is an award for documentary films. In 1941, the first awards for feature-length documentaries were bestowed as Special Awards to Kukan and Target for Tonight.",
+    "title": "Best Documentary Feature",
+    "winner": {
+      "name": "Navalny",
+      "filmId": "navalny"
+    }
+  },
+  "best_film_editing": {
+    "id": "best_film_editing",
+    "description": "Nominations for this award are closely correlated with the Academy Award for Best Picture. For 33 consecutive years, 1981 to 2013, every Best Picture winner had also been nominated for the Film Editing Oscar, and about two thirds of the Best Picture winners have also won for Film Editing.",
+    "title": "Best Film Editing",
+    "winner": {
+      "name": "Paul Rogers",
+      "filmId": "everything_everywhere_all_at_once"
+    }
+  },
+  "best_production_design": {
+    "id": "best_production_design",
+    "description": "The category's original name was Best Art Direction, but was changed to its current name in 2012 for the 85th Academy Awards. This change resulted from the Art Directors' branch of the Academy of Motion Picture Arts and Sciences being renamed the Designers' branch. Since 1947, the award is shared with the set decorators. It is awarded to the best interior design in a film.",
+    "title": "Best Production Design",
+    "winner": {
+      "name": "Christian M. Goldbeck and Ernestine Hipper",
+      "filmId": "all_quiet_on_the_western_front"
+    }
+  },
+  "best_cinematography": {
+    "id": "best_cinematography",
+    "description": "In its first film season, 1927–28, this award (like others such as the acting awards) was not tied to a specific film; all of the work by the nominated cinematographers during the qualifying period was listed after their names. The problem with this system became obvious the first year, since Karl Struss and Charles Rosher were nominated for their work together on Sunrise. Still, three other films shot individually by either Rosher or Struss were also listed as part of the nomination. In the second year, 1929, there were no nominations at all, although the Academy has a list of unofficial titles that were under consideration by the Board of Judges. In the third year, 1930, films, not cinematographers, were nominated, and the final award did not show the cinematographer's name.\n\nFinally, for the 1931 awards, the modern system in which individuals are nominated for a single film was adopted in all profession-related categories. From 1939 to 1967 with the exception of 1957, there were also separate awards for color and black-and-white cinematography.",
+    "title": "Best Cinematography",
+    "winner": {
+      "name": "Christian M. Goldbeck and Ernestine Hipper",
+      "filmId": "all_quiet_on_the_western_front"
+    }
+  },
+  "best_costume_design": {
+    "id": "best_costume_design",
+    "description": "The Academy Award for Best Costume Design was first given in 1949, for films made in 1948. Initially, separate award categories were established for black-and-white films and color films. Since the merger of the two categories in 1967, the academy has traditionally avoided giving out the award to films with a contemporary setting.",
+    "title": "Best Costume Design",
+    "winner": {
+      "name": "Ruth Carter",
+      "filmId": "black_panther_wakanda_forever"
+    }
+  },
+  "best_makeup_hairstyling": {
+    "id": "best_makeup_hairstyling",
+    "description": "Traditionally, three films have been nominated each year with exceptions in the early 1980s and 2002 when there were only two nominees; in 1999, when there were four nominees. Beginning with the 92nd Academy Awards, five films were nominated.",
+    "title": "Best Makeup and Hairstyling",
+    "winner": {
+      "name": "Adrien Morot, Judy Chin, and Annemarie Bradley",
+      "filmId": "the_whale"
+    }
+  },
+  "best_documentary_short_film": {
+    "id": "best_documentary_short_film",
+    "description": "Following the Academy's practice, the year listed for each film is the year of release: the awards are announced and presented early in the following year. Fifteen films are shortlisted before nominations are announced.",
+    "title": "Best Documentary Short Film",
+    "winner": {
+      "name": "Kartiki Gonsalves and Guneet Monga",
+      "filmId": "the_elephants_whisperers"
+    }
+  },
+  "best_music_original_score": {
+    "id": "best_music_original_score",
+    "description": "The Academy Award for Best Original Score is an award presented annually to the best substantial body of music in the form of dramatic underscoring written specifically for the film by the submitting composer.",
+    "title": "Best Music (Original Score)",
+    "winner": {
+      "name": "Volker Bertelmann",
+      "filmId": "all_quiet_on_the_western_front"
+    }
+  },
+  "best_music_original_song": {
+    "id": "best_music_original_song",
+    "description": "The Academy Award for Best Original Song is presented to the songwriters who have composed the best original song written specifically for a film. The performers of a song are not credited with the Academy Award unless they contributed either to music, lyrics, or both in their own right. The songs that are nominated for this award are typically performed during the ceremony and before this award is presented.",
+    "title": "Best Music (Original Song)",
+    "winner": {
+      "name": "Naatu Naatu (M.M. Keeravani, Chandrabose)",
+      "filmId": "rrr"
+    }
+  },
+  "best_short_film_animated": {
+    "id": "best_short_film_animated",
+    "description": "From 1932 until 1970, the category was known as Short Subjects, Cartoons; and from 1971 to 1973 as Short Subjects, Animated Films. The present title began with the 46th Awards in 1974. During the first 5 decades of the award's existence, awards were presented to the producers of the shorts. Current Academy rules, however, call for the award to be presented to \"the individual person most directly responsible for the concept and the creative execution of the film.\"",
+    "title": "Best Short Film (Animated)",
+    "winner": {
+      "name": "Charlie Mackesy and Matthew Freud",
+      "filmId": "the_boy_the_mole_the_fox_and_the_horse"
+    }
+  },
+  "best_sound": {
+    "id": "best_sound",
+    "description": "The Academy Award for Best Sound recognizes the finest or most euphonic sound mixing, recording, sound design, and sound editing. The award used to go to the studio sound departments until a rule change in 1969 said it should be awarded to the specific technicians.",
+    "title": "Best Sound",
+    "winner": {
+      "name": "Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",
+      "filmId": "top_gun_maverick"
+    }
+  },
+  "best_visual_effects": {
+    "id": "best_visual_effects",
+    "description": "It was not until 1938 when a film was actually recognized for its effects work, when a \"Special Achievement Award for Special Effects\" was given to the Paramount film Spawn of the North. The following year, \"Best Special Effects\" became a recognized category, although on occasion the Academy has chosen to honor a single film outright rather than nominate two or more films. From 1939 to 1963, it was an award for a film's visual effects as well as audio effects, so it was often given to two persons, although some years only one or the other type of effect was recognized. In 1964, it was given only for visual effects, and the following year the name of the category was changed to \"Best Special Visual Effects\".",
+    "title": "Best Visual Effects",
+    "winner": {
+      "name": "Joe Letteri, Richard Baneham, Eric Saindon, and Daniel Barrett",
+      "filmId": "avatar_the_way_of_water"
+    }
+  }
+}
