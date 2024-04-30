@@ -10,3 +10,6 @@ A coding workshop is part of an initiative driven by [Trustpilot Local Community
 4. Manipulating Date and Time
 5. Functions  
 6. Promises and Async functions
+
+### Homework: (Optional)
+Located in the `homework` folder
