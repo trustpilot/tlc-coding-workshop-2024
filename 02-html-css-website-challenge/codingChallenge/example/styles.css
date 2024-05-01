@@ -1,0 +1,113 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* DEFAULT MARGINS */
+
+html {
+    padding: 1rem;
+}
+
+.html {
+    width: 100%;
+    background-color: gray;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.html>* {
+    margin: 1rem;
+    border: 1px solid black;
+}
+
+.html>.html-opening,
+.html>.html-closing {
+    margin: 0;
+    border: none;
+}
+
+.title {
+    margin: 1rem;
+}
+
+.body>div {
+    margin: 1rem;
+    background-color: white;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.body>div>p {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.body>div>p+p {
+    margin-top: 1rem;
+}
+
+/* GLOBAL */
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    /* feel free to experiment with other images, unsplash has good free "
+    /* background-image: url("https://unsplash.com/photos/silhouette-of-mountains-next-to-body-of-water-2-MmXpeN8YE"); */
+    /* background-image: url("https://unsplash.com/photos/green-and-yellow-ceramic-vase-HfhjNA0TYYU"); */
+    /* background-image: url("https://unsplash.com/photos/purple-blue-and-brown-abstract-painting-xcXXKZyprRA"); */
+    /* background-image: url("https://unsplash.com/photos/close-up-photography-of-cupcakes-qJ0zGkrE1Zg"); */
+    background-image: url("https://unsplash.com/photos/white-cream-with-sprinkles-on-pink-plate-u3nVDmTva9w");
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    background-position-y: -150px;
+}
+
+/* HEADER */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+}
+
+.link-item {
+    margin-right: 25px;
+}
+
+.link {
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+    transition: all 0.4s;
+}
+
+.link:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.article {
+    
+}
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+  }
