@@ -4,22 +4,22 @@ console.log(`
 // ========================================`
 );
 
-const name = 'Olga'; // String
-const age = 37; // Number integer
-const height = 5.8; // Number float
+const userName = 'Olga'; // String
+const userAge = 37; // Number integer
+const userHeight = 5.8; // Number float
 
 const userPaidForService = true; // Boolean
-let gender = undefined; // undefined
-let favouriteHobby = null; // null
+let userGender = undefined; // undefined
+let userFavouriteHobby = null; // null
 
 const person = {
     "id": "ols", // string
-    "name": name, // string
-    "age": age, // number
-    "height": height, // number
+    "name": userName, // string
+    "age": userAge, // number
+    "height": userHeight, // number
     "allowAccess": userPaidForService, // boolean
     "hobbies": ['music', 'movies', 'sports'], // array of strings
-    "favouriteHobby": favouriteHobby, // null
+    "favouriteHobby": userFavouriteHobby, // null
     "favouriteFilm": {
         "id": "everything_everywhere_all_at_once",
         "type": "film",
@@ -130,5 +130,5 @@ const films = [
         "imdbScore": 7.8
     }
 ];
-console.log("films: ", films);
 
+console.log("films: ", films);

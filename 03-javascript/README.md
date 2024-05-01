@@ -11,5 +11,9 @@ A coding workshop is part of an initiative driven by [Trustpilot Local Community
 5. Functions  
 6. Promises and Async functions
 
+### Prerequisites
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
+
 ### Homework: (Optional)
 Located in the `homework` folder
+
