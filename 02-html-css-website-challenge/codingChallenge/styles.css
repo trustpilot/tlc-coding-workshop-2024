@@ -1,11 +1,6 @@
-body {
+/* body {
     font-family: 'Lato', sans-serif;
     color: #fff;
-    /* feel free to experiment with other images, unsplash has good free "
-    /* background-image: url("https://unsplash.com/photos/silhouette-of-mountains-next-to-body-of-water-2-MmXpeN8YE"); */
-    /* background-image: url("https://unsplash.com/photos/green-and-yellow-ceramic-vase-HfhjNA0TYYU"); */
-    /* background-image: url("https://unsplash.com/photos/purple-blue-and-brown-abstract-painting-xcXXKZyprRA"); */
-    /* background-image: url("https://unsplash.com/photos/close-up-photography-of-cupcakes-qJ0zGkrE1Zg"); */
     background-image: url("https://images.unsplash.com/photo-1598663846983-5988820849f8?q=80&w=4142&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-blend-mode: darken;
     background-size: contain; 
@@ -22,4 +17,4 @@ body {
     width: 100%;
     display: flex;
     align-content: space-between;
-}
+} */
