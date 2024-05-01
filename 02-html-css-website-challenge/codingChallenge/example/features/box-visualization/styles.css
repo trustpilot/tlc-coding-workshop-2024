@@ -1,0 +1,14 @@
+* { outline: 2px dotted red }
+* * { outline: 2px dotted green }
+* * * { outline: 1px solid blue }
+* * * * { outline: 1px solid purple }
+* * * * * { outline: 1px solid red }
+* * * * * * { outline: 2px dotted green }
+* * * * * * * { outline: 2px dotted blue }
+* * * * * * * * { outline: 2px dotted purple }
+
+/* Style so you can better see the lines */
+div{
+  margin: 10px;
+  padding: 10px;
+}
