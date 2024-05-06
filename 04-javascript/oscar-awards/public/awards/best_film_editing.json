@@ -1,0 +1,9 @@
+{
+  "id": "best_film_editing",
+  "description": "Nominations for this award are closely correlated with the Academy Award for Best Picture. For 33 consecutive years, 1981 to 2013, every Best Picture winner had also been nominated for the Film Editing Oscar, and about two thirds of the Best Picture winners have also won for Film Editing.",
+  "title": "Best Film Editing",
+  "winner": {
+    "name": "Paul Rogers",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

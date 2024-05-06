@@ -1,0 +1,9 @@
+{
+  "id": "best_picture",
+  "description": "The Academy Award for Best Picture is one of the Academy Awards (also known as Oscars) presented annually by the Academy of Motion Picture Arts and Sciences since the awards debuted in 1929. This award goes to the producers of the film and is the only category in which every member of the Academy is eligible to submit a nomination and vote on the final ballot. The Best Picture category is traditionally the final award of the night and is widely considered as the most prestigious honor of the ceremony.",
+  "title": "Best Picture",
+  "winner": {
+    "name": "Everything Everywhere All at Once",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

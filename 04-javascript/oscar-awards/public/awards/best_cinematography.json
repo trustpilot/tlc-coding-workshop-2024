@@ -1,0 +1,9 @@
+{
+  "id": "best_cinematography",
+  "description": "In its first film season, 1927–28, this award (like others such as the acting awards) was not tied to a specific film; all of the work by the nominated cinematographers during the qualifying period was listed after their names. The problem with this system became obvious the first year, since Karl Struss and Charles Rosher were nominated for their work together on Sunrise. Still, three other films shot individually by either Rosher or Struss were also listed as part of the nomination. In the second year, 1929, there were no nominations at all, although the Academy has a list of unofficial titles that were under consideration by the Board of Judges. In the third year, 1930, films, not cinematographers, were nominated, and the final award did not show the cinematographer's name.\n\nFinally, for the 1931 awards, the modern system in which individuals are nominated for a single film was adopted in all profession-related categories. From 1939 to 1967 with the exception of 1957, there were also separate awards for color and black-and-white cinematography.",
+  "title": "Best Cinematography",
+  "winner": {
+    "name": "Christian M. Goldbeck and Ernestine Hipper",
+    "filmId": "all_quiet_on_the_western_front"
+  }
+}

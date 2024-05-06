@@ -1,0 +1,9 @@
+{
+  "id": "best_supporting_actress",
+  "description": "The Academy Award for Best Supporting Actress has been awarded since the 9th Academy Awards to an actress who has delivered an outstanding performance in a supporting role in a film released that year. The award is traditionally presented by the previous year's Best Supporting Actor winner. In lieu of the traditional Oscar statuette, supporting acting recipients were given plaques up until the 16th Academy Awards, when statuettes were awarded to each category instead.",
+  "title": "Best Supporting Actress",
+  "winner": {
+    "name": "Jamie Lee Curtis",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

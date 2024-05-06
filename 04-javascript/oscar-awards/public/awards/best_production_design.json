@@ -1,0 +1,9 @@
+{
+  "id": "best_production_design",
+  "description": "The category's original name was Best Art Direction, but was changed to its current name in 2012 for the 85th Academy Awards. This change resulted from the Art Directors' branch of the Academy of Motion Picture Arts and Sciences being renamed the Designers' branch. Since 1947, the award is shared with the set decorators. It is awarded to the best interior design in a film.",
+  "title": "Best Production Design",
+  "winner": {
+    "name": "Christian M. Goldbeck and Ernestine Hipper",
+    "filmId": "all_quiet_on_the_western_front"
+  }
+}

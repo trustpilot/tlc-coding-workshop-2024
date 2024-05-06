@@ -1,0 +1,9 @@
+{
+  "id": "best_costume_design",
+  "description": "The Academy Award for Best Costume Design was first given in 1949, for films made in 1948. Initially, separate award categories were established for black-and-white films and color films. Since the merger of the two categories in 1967, the academy has traditionally avoided giving out the award to films with a contemporary setting.",
+  "title": "Best Costume Design",
+  "winner": {
+    "name": "Ruth Carter",
+    "filmId": "black_panther_wakanda_forever"
+  }
+}

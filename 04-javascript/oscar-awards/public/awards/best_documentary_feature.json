@@ -1,0 +1,9 @@
+{
+  "id": "best_documentary_feature",
+  "description": "The Academy Award for Best Documentary Feature Film is an award for documentary films. In 1941, the first awards for feature-length documentaries were bestowed as Special Awards to Kukan and Target for Tonight.",
+  "title": "Best Documentary Feature",
+  "winner": {
+    "name": "Navalny",
+    "filmId": "navalny"
+  }
+}

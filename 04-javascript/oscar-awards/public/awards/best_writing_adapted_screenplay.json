@@ -1,0 +1,9 @@
+{
+  "id": "best_writing_adapted_screenplay",
+  "description": "The Academy Award for Best Adapted Screenplay is for the best screenplay adapted from previously established material. The most frequently adapted media are novels, but other adapted narrative formats include stage plays, musicals, short stories, TV series, and even other films and film characters. All sequels are also considered adaptations by this standard (based on the story and characters set forth in the original film).",
+  "title": "Best Writing (Adapted Screenplay)",
+  "winner": {
+    "name": "Eric Roth",
+    "filmId": "all_quiet_on_the_western_front"
+  }
+}

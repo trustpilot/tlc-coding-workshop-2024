@@ -5,12 +5,12 @@ console.log(`
 );
 
 
-// console.log(`${person.age}, height: ${person.height}`);
+console.log(`age: ${person.age}, height: ${person.height}`);
 person.age = person.age + 5;
 person.age += 2;
 person.age++;
 person.height--;
-// console.log(`${person.name}: ${person.age} years, height: ${person.height}, heightOnHeels: ${height + 0.4}`);
+console.log(`${person.name} age: ${person.age}, height: ${person.height}, heightOnHeels: ${person.height + 0.4}`);
 
 
 person.hobbies = [...person.hobbies, 'reading'];

@@ -32,8 +32,14 @@ const person = {
 
 
 const hobbiesCollectedFromUsers = [
-    'sports', null, undefined, 'My name is Bob and I like to play chess', 'option 2', 3, false, "f*ck off"
-]; // array of anything
+    'sports', 
+    null, 
+    undefined, 
+    'My name is Bob and I like to play chess', 
+    'option 2', 
+    3, 
+    false, 
+    "f*ck off"]; // array of anything
 
 const allowedHobbies = [
     "reading", "drawing", "travelling", "sports", "music", "dancing"
@@ -130,5 +136,3 @@ const films = [
         "imdbScore": 7.8
     }
 ];
-
-console.log("films: ", films);
