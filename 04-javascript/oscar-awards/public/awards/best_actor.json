@@ -1,0 +1,9 @@
+{
+  "id": "best_actor",
+  "description": "The Academy Award for Best Actor has been awarded since the 1st Academy Awards to an actor who has delivered an outstanding performance in a leading role in a film released that year. The award is traditionally presented by the previous year's Best Actress winner.",
+  "title": "Best Actor",
+  "winner": {
+    "name": "Brendan Fraser",
+    "filmId": "the_whale"
+  }
+}

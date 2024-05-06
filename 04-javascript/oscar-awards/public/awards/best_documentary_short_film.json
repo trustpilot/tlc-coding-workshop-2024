@@ -1,0 +1,9 @@
+{
+  "id": "best_documentary_short_film",
+  "description": "Following the Academy's practice, the year listed for each film is the year of release: the awards are announced and presented early in the following year. Fifteen films are shortlisted before nominations are announced.",
+  "title": "Best Documentary Short Film",
+  "winner": {
+    "name": "Kartiki Gonsalves and Guneet Monga",
+    "filmId": "the_elephants_whisperers"
+  }
+}

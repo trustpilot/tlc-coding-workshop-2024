@@ -1,0 +1,9 @@
+{
+  "id": "best_director",
+  "description": "The Academy Award for Best Director (officially known as the Academy Award of Merit for Directing) is given in honor of a film director who has exhibited outstanding directing while working in the film industry.",
+  "title": "Best Director",
+  "winner": {
+    "name": "Daniel Kwan and Daniel Scheinert",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

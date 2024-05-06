@@ -1,0 +1,112 @@
+[
+  {
+    "id": "best_picture",
+    "title": "Best Picture",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_director",
+    "title": "Best Director",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_actor",
+    "title": "Best Actor",
+    "winnerId": "the_whale"
+  },
+  {
+    "id": "best_actress",
+    "title": "Best Actress",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_supporting_actor",
+    "title": "Best Supporting Actor",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_supporting_actress",
+    "title": "Best Supporting Actress",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_writing_original_screenplay",
+    "title": "Best Writing (Original Screenplay)",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_writing_adapted_screenplay",
+    "title": "Best Writing (Adapted Screenplay)",
+    "winnerId": "all_quiet_on_the_western_front"
+  },
+  {
+    "id": "best_animated_feature_film",
+    "title": "Best Animated Feature Film",
+    "winnerId": "guillermo_del_toro_pinocchio"
+  },
+  {
+    "id": "best_international_feature_film",
+    "title": "Best International Feature Film",
+    "winnerId": "all_quiet_on_the_western_front"
+  },
+  {
+    "id": "best_documentary_feature",
+    "title": "Best Documentary Feature",
+    "winnerId": "navalny"
+  },
+  {
+    "id": "best_film_editing",
+    "title": "Best Film Editing",
+    "winnerId": "everything_everywhere_all_at_once"
+  },
+  {
+    "id": "best_production_design",
+    "title": "Best Production Design",
+    "winnerId": "all_quiet_on_the_western_front"
+  },
+  {
+    "id": "best_cinematography",
+    "title": "Best Cinematography",
+    "winnerId": "all_quiet_on_the_western_front"
+  },
+  {
+    "id": "best_costume_design",
+    "title": "Best Costume Design",
+    "winnerId": "black_panther_wakanda_forever"
+  },
+  {
+    "id": "best_makeup_hairstyling",
+    "title": "Best Makeup and Hairstyling",
+    "winnerId": "the_whale"
+  },
+  {
+    "id": "best_documentary_short_film",
+    "title": "Best Documentary Short Film",
+    "winnerId": "the_elephants_whisperers"
+  },
+  {
+    "id": "best_music_original_score",
+    "title": "Best Music (Original Score)",
+    "winnerId": "all_quiet_on_the_western_front"
+  },
+  {
+    "id": "best_music_original_song",
+    "title": "Best Music (Original Song)",
+    "winnerId": "rrr"
+  },
+  {
+    "id": "best_short_film_animated",
+    "title": "Best Short Film (Animated)",
+    "winnerId": "the_boy_the_mole_the_fox_and_the_horse"
+  },
+  {
+    "id": "best_sound",
+    "title": "Best Sound",
+    "winnerId": "top_gun_maverick"
+  },
+  {
+    "id": "best_visual_effects",
+    "title": "Best Visual Effects",
+    "winnerId": "avatar_the_way_of_water"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "best_animated_feature_film",
+  "description": "The Academy Award for Best Animated Feature is given each year for the best animated film. An animated feature is defined by the academy as a film with a running time of more than 40 minutes in which characters' performances are created using a frame-by-frame technique, a significant number of the major characters are animated, and animation figures in no less than 75 percent of the running time. The Academy Award for Best Animated Feature was first awarded in 2002 for films released in 2001.",
+  "title": "Best Animated Feature Film",
+  "winner": {
+    "name": "Guillermo del Toro’s Pinocchio",
+    "filmId": "guillermo_del_toro_pinocchio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "best_supporting_actor",
+  "description": "The Academy Award for Best Supporting Actor has been awarded since the 9th Academy Awards to an actor who has delivered an outstanding performance in a supporting role in a film released that year. The award is traditionally presented by the previous year's Best Supporting Actress winner. In lieu of the traditional Oscar statuette, supporting acting recipients were given plaques up until the 16th Academy Awards, when statuettes were awarded to each category instead.",
+  "title": "Best Supporting Actor",
+  "winner": {
+    "name": "Ke Huy Quan",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

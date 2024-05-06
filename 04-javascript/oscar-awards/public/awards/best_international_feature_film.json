@@ -1,0 +1,9 @@
+{
+  "id": "best_international_feature_film",
+  "description": "The Academy Award for Best International Feature Film (known as Best Foreign Language Film prior to 2020) is one of the Academy Awards handed out annually by the U.S.-based Academy of Motion Picture Arts and Sciences. It is given to a feature-length motion picture produced outside the United States with a predominantly non-English dialogue track.",
+  "title": "Best International Feature Film",
+  "winner": {
+    "name": "All Quiet on the Western Front (Germany)",
+    "filmId": "all_quiet_on_the_western_front"
+  }
+}

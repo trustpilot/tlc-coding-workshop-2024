@@ -1,0 +1,9 @@
+{
+  "id": "best_writing_original_screenplay",
+  "description": "The Academy Award for Best Original Screenplay is for the best screenplay not based upon previously published material. It was created in 1940 as a separate writing award from the Academy Award for Best Story. Beginning with the Oscars for 1957, the two categories were combined to honor only the screenplay.",
+  "title": "Best Writing (Original Screenplay)",
+  "winner": {
+    "name": "Daniel Kwan and Daniel Scheinert",
+    "filmId": "everything_everywhere_all_at_once"
+  }
+}

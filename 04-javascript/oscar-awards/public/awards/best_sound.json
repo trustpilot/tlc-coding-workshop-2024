@@ -1,0 +1,9 @@
+{
+  "id": "best_sound",
+  "description": "The Academy Award for Best Sound recognizes the finest or most euphonic sound mixing, recording, sound design, and sound editing. The award used to go to the studio sound departments until a rule change in 1969 said it should be awarded to the specific technicians.",
+  "title": "Best Sound",
+  "winner": {
+    "name": "Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",
+    "filmId": "top_gun_maverick"
+  }
+}

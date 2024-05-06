@@ -1,0 +1,68 @@
+[
+  {
+    "id": "everything_everywhere_all_at_once",
+    "type": "film",
+    "name": "Everything Everywhere All At Once",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "the_whale",
+    "type": "film",
+    "name": "The Whale",
+    "imdbScore": 7.7
+  },
+  {
+    "id": "the_elephants_whisperers",
+    "type": "film",
+    "name": "The Elephants Whisperers",
+    "imdbScore": 7.5
+  },
+  {
+    "id": "all_quiet_on_the_western_front",
+    "type": "film",
+    "name": "All Quiet on the Western Front",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "black_panther_wakanda_forever",
+    "type": "film",
+    "name": "Black Panther: Wakanda Forever",
+    "imdbScore": 6.7
+  },
+  {
+    "id": "guillermo_del_toro_pinocchio",
+    "type": "film",
+    "name": "Guillermo del Toro’s Pinocchio",
+    "imdbScore": 7.6
+  },
+  {
+    "id": "navalny",
+    "type": "film",
+    "name": "Navalny",
+    "imdbScore": 7.7
+  },
+  {
+    "id": "the_boy_the_mole_the_fox_and_the_horse",
+    "type": "film",
+    "name": "The Boy, The Mole, The Fox and The Horse",
+    "imdbScore": 7.8
+  },
+  {
+    "id": "top_gun_maverick",
+    "type": "film",
+    "name": "Top Gun: Maverick",
+    "imdbScore": 8.2
+  },
+  {
+    "id": "avatar_the_way_of_water",
+    "type": "film",
+    "name": "Avatar: The Way of Water",
+    "imdbScore": 7.6
+  },
+  {
+    "id": "rrr",
+    "type": "film",
+    "name": "RRR",
+    "imdbScore": 7.8
+  }
+]
