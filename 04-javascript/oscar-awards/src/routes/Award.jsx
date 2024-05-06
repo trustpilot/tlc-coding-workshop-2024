@@ -3,7 +3,7 @@ import {Link, useParams} from "react-router-dom";
 import { TopHeader } from "../components/HeaderBlock/HeaderBlock.jsx";
 
 
-export default function AwardPage() {
+export default function Award() {
     const { awardId } = useParams();
 
     const [award, setAward] = useState(null);

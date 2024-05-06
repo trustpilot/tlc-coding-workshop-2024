@@ -1,15 +1,15 @@
 import {BrowserRouter, Route, Routes } from "react-router-dom";
-import AwardPage from "./routes/AwardPage.jsx";
-import AwardsPage from "./routes/AllAwardsPage.jsx";
-import NoMatchPage from "./routes/NoMatchPage.jsx";
+import Award from "./routes/Award.jsx";
+import AwardsPage from "./routes/AllAwards.jsx";
+import NoMatch from "./routes/NoMatch.jsx";
 
 function App() {
   return (
       <BrowserRouter>
           <Routes>
               <Route path="/" element={<AwardsPage />} />
-              <Route path="/awards/:awardId" element={<AwardPage/>} />
-              <Route path="*" element={<NoMatchPage />} />
+              <Route path="/awards/:awardId" element={<Award/>} />
+              <Route path="*" element={<NoMatch />} />
           </Routes>
       </BrowserRouter>
   )
