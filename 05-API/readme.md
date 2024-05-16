@@ -12,4 +12,4 @@ First we need to donwlload Postman here https://www.postman.com/downloads/
 
 3: Cope paste this URL and postman will import the collection 
 
-
+https://raw.githubusercontent.com/trustpilot/tlc-coding-workshop-2024/API/05-API/Assets/code%20course.postman_collection.json
