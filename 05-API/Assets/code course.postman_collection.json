@@ -1,0 +1,122 @@
+{
+	"info": {
+		"_postman_id": "ab0b6189-31d5-4b7e-928e-99714991dc71",
+		"name": "code course",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7809745",
+		"_collection_link": "https://www.postman.com/gold-escape-517155/workspace/api-course/collection/7809745-ab0b6189-31d5-4b7e-928e-99714991dc71?action=share&source=collection_link&creator=7809745"
+	},
+	"item": [
+		{
+			"name": "Post new movie",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"uuid": "d049c6ac-4733-4a29-92a9-cc98d1dbe597"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"jackass\",\r\n    \"year\":1997,\r\n    \"rank\":60\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api-learning-course.onrender.com/api/movies",
+					"protocol": "https",
+					"host": [
+						"api-learning-course",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"movies"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get movies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api-learning-course.onrender.com/api/movies",
+					"protocol": "https",
+					"host": [
+						"api-learning-course",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"movies"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update movie",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"paleeyes\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api-learning-course.onrender.com/api/movies/1",
+					"protocol": "https",
+					"host": [
+						"api-learning-course",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"movies",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete movie",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://api-learning-course.onrender.com/api/movies/1",
+					"protocol": "https",
+					"host": [
+						"api-learning-course",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"movies",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
