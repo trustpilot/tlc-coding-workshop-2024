@@ -4,14 +4,38 @@ console.log(`
 // ========================================`
 );
 
-const userName = 'Olga'; // String
-const userAge = 37; // Number integer
-const userHeight = 5.8; // Number float
 
-const userPaidForService = true; // Boolean
-let userGender = undefined; // undefined
-let userFavouriteHobby = null; // null
+// >> Note: type "String"
+const userName = 'Olga';
 
+// >> Note: type "Number" used for integer and float numbers
+const userAge = 37; 
+const userHeight = 5.8;  
+
+// >> Note: type "Boolean" can be true or false 
+const userPaidForService = true;  
+
+// >> Note: type "Undefined" and "Null" are used to define the absence of value
+let userGender = undefined;  
+let userFavouriteHobby = null;  
+
+// >> Note: type "Array" is a collection of elements of the any type
+const hobbiesCollectedFromUsers = [
+    'sports', 
+    null, 
+    undefined, 
+    'My name is Bob and I like to play chess', 
+    'option 2', 
+    3, 
+    false, 
+    "f*ck off"]; 
+
+// >> Note: example of a list with all elements of the same type "String"
+const allowedHobbies = [
+    "reading", "drawing", "travelling", "sports", "music", "dancing"
+]; 
+
+// >> Note: type "Object" is a collection of key-value pairs
 const person = {
     "id": "ols", // string
     "name": userName, // string
@@ -28,24 +52,9 @@ const person = {
         "imdbLink": "https://www.imdb.com/title/tt6710474",
         "imdbScore": 7.8
     }
-}; // object
+}; 
 
-
-const hobbiesCollectedFromUsers = [
-    'sports', 
-    null, 
-    undefined, 
-    'My name is Bob and I like to play chess', 
-    'option 2', 
-    3, 
-    false, 
-    "f*ck off"]; // array of anything
-
-const allowedHobbies = [
-    "reading", "drawing", "travelling", "sports", "music", "dancing"
-]; // array of strings
-
-// arrays of objects
+// >> Note:  example of an Array of Objects
 const films = [
     {
         "id": "everything_everywhere_all_at_once",

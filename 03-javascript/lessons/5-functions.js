@@ -31,5 +31,3 @@ function PersonalSummaryDiv(name, age, height, film, hobbies) {
 // const rootElement = document.getElementById('root');
 // rootElement.appendChild(PersonalSummaryDiv("Olga", 37, 5.8, films[3], ['reading', 'drawing']));
 // rootElement.appendChild(PersonalSummaryDiv("Alex", 35, 7.8, films[1], ['computer games', 'jazz music']));
-
-
